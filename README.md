@@ -1,22 +1,16 @@
-# EXP 2 : Linear and Circular Convolution
+# EXP 1 A : COMPUTATION OF DFT USING DIRECT AND FFT
 
-## AIM: 
+# AIM: 
 
- To perform Linear and Circular Convolution for two given sequence using SCILAB. 
+# To Obtain DFT and FFT of a given sequence in SCILAB. 
 
-## APPARATUS REQUIRED: 
+# APPARATUS REQUIRED: 
 PC installed with SCILAB. 
 
-## PROGRAM (Linear Convolution): 
+# PROGRAM: 
+// DISCRETE FOURIER TRANSFORM 
 
-// Linear Convolution
+# OUTPUT: 
 
-## PROGRAM (Circular Convolution): 
 
-// Circular Convolution
-
-## OUTPUT (Linear Convolution): 
-
-## OUTPUT (Circular Convolution): 
-
-## RESULT: 
+# RESULT: 
